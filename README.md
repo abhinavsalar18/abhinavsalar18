@@ -30,5 +30,5 @@ You can click the Preview link to take a look at your changes.
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavsalar18&show_icons=true&theme=tokyonight)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsalar18&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsalar18&theme=hacker)
 
